@@ -2,7 +2,6 @@ import './App.css'
 import Dino from './Dino'
 
 function App(props) {
-    console.log(props.post)
     return (
         <div className="App">
             <Dino
